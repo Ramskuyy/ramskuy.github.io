@@ -1,5 +1,5 @@
 :root {
-  --primary-blue: #4ea4fd;
+  --primary-blue: #3bc9f3;
   --text-light: #7d7e83;
   --bg: #2d2e32;
   --bg-dark: #25262a;
@@ -11,7 +11,7 @@
 }
 
 .primary {
-  color: #4ea4fd;
+  color: #3bc9f3;
 }
 
 .text-light {
